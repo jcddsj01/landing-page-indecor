@@ -14,7 +14,7 @@ Implantação do Projeto no Vercel: [Explore o projeto clicando aqui.](https://j
 
 ---
 
-## Project - Dev Barber - Your Barber Shop! <br> Created on the basis of the YouTube channel  | [Sujeito programador](https://www.youtube.com/@Sujeitoprogramador/featured)
+## Project - InDecor <br> Created on the basis of the YouTube channel  | [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=6wd7PK3G7Zo&t=153s&ab_channel=MatheusBattisti-HoradeCodar)
 
 This landing page was created for an interior design learning event. It has a well-organized structure, attractive styles and is fully responsive. The code follows the clean code standard.
 
