@@ -1,6 +1,6 @@
 ## Projeto - InDecor <br> Criado com base do Canal no YouTube | [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=6wd7PK3G7Zo&t=153s&ab_channel=MatheusBattisti-HoradeCodar)
 
-
+Essa landing page foi criada para um evento de aprendizado sobre decoração de interiores. Ela possui uma estrutura bem organizada, estilos atraentes e é totalmente responsiva. O código segue o padrão clean code.
 
 Tecnologias Utilizadas:
 * [HTML (Linguagem de marcação):](https://www.w3schools.com/html/html_intro.asp) Utilizado para estruturar e definir o conteúdo da página, incluindo cabeçalhos, parágrafos, listas e imagens.
@@ -10,13 +10,13 @@ Tecnologias Utilizadas:
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) O site utilizado é uma ferramenta online que comprime imagens JPEG e PNG sem perder muita qualidade. Ele reduz o tamanho dos arquivos de imagem usando algoritmos eficientes de compressão.
 * [GitHub Pages:](https://pages.github.com/) Plataforma de hospedagem gratuita para projetos estáticos, permitindo que o site seja acessível na web.
 
-Implantação do Projeto no Vercel: [Explore o projeto clicando aqui.]()
+Implantação do Projeto no Vercel: [Explore o projeto clicando aqui.](https://jcddsj01.github.io/landing-page-indecor/)
 
 ---
 
 ## Project - Dev Barber - Your Barber Shop! <br> Created on the basis of the YouTube channel  | [Sujeito programador](https://www.youtube.com/@Sujeitoprogramador/featured)
 
-It's a website for a fictional barbershop, providing details of the services offered, an attractive photo gallery and the ability for visitors to book appointments. In essence, the purpose of the site is to promote the barbershop, highlighting its services and simplifying the process of contacting clients.
+This landing page was created for an interior design learning event. It has a well-organized structure, attractive styles and is fully responsive. The code follows the clean code standard.
 
 Technologies used:
 * [HTML (HyperText Markup Language):](https://www.w3schools.com/html/html_intro.asp) Used to structure and define page content, including headings, paragraphs, lists and images.
@@ -26,4 +26,4 @@ Technologies used:
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) The website used is an online tool that compresses JPEG and PNG images without losing much quality. It reduces the size of image files using efficient compression algorithms.
 * [GitHub Pages:](https://pages.github.com/) Free hosting platform for static projects, allowing the website to be accessible on the web.
 
-Project deployment on Vercel: [Explore the project by clicking here.]()
+Project deployment on Vercel: [Explore the project by clicking here.](https://jcddsj01.github.io/landing-page-indecor/)
