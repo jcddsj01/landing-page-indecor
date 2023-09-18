@@ -10,7 +10,7 @@ Tecnologias Utilizadas:
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) O site utilizado é uma ferramenta online que comprime imagens JPEG e PNG sem perder muita qualidade. Ele reduz o tamanho dos arquivos de imagem usando algoritmos eficientes de compressão.
 * [GitHub Pages:](https://pages.github.com/) Plataforma de hospedagem gratuita para projetos estáticos, permitindo que o site seja acessível na web.
 
-Implantação do Projeto no Vercel: [Explore o projeto clicando aqui.](https://jcddsj01.github.io/landing-page-indecor/)
+Implantação do Projeto no GitHub Pages: [Explore o projeto clicando aqui.](https://jcddsj01.github.io/landing-page-indecor/)
 
 ---
 
@@ -26,4 +26,4 @@ Technologies used:
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) The website used is an online tool that compresses JPEG and PNG images without losing much quality. It reduces the size of image files using efficient compression algorithms.
 * [GitHub Pages:](https://pages.github.com/) Free hosting platform for static projects, allowing the website to be accessible on the web.
 
-Project deployment on Vercel: [Explore the project by clicking here.](https://jcddsj01.github.io/landing-page-indecor/)
+Project deployment on GitHub Pages: [Explore the project by clicking here.](https://jcddsj01.github.io/landing-page-indecor/)
